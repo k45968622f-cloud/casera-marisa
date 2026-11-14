@@ -1,0 +1,29 @@
+{
+  "name": "Casera Marisa",
+  "short_name": "Casera Marisa",
+  "description": "App di gestione della Casera Marisa",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#d4f1ff",
+  "theme_color": "#2e8b57",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
